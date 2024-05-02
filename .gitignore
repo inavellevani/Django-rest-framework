@@ -1,6 +1,7 @@
 
-.venv/
+.venv
 db.sqlite3
 djangoProject/__pycache__/
 products/migrations/
 products/__pycache__/
+.idea
